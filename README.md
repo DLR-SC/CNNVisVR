@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/200841883.svg)](https://zenodo.org/badge/latestdoi/200841883)
+
 # CNNVisVR
 Prototype for a visualization of a Convolutional Neural Network (CNN) in Virtual Reality
 
